@@ -11,7 +11,7 @@
 ## Notes-ptBR: Frame de "Novo Nível" parecido com o padrão do WoW Retail.
 ## Notes-zhCN: 类似于魔兽世界正式版默认的"新等级"框架.
 ## Notes-zhTW: 類似於魔獸世界正式版預設的"新等級"框架.
-## Version: 1.3
+## Version: 1.3.0
 ## Author: Paulo Nascimento
 ## License: The MIT License
 ## SavedVariables: NewLevelFrameDB
