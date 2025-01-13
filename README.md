@@ -126,3 +126,4 @@ Acesse o painel de configuração através de:
 ### Comandos
 
 - `/lvltest`: Testa o frame de level up com seu nível atual
+
